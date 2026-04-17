@@ -1,4 +1,4 @@
-# evaluate_veri.py - VeRi-776 Benchmark Evaluation (FIXED)
+
 
 import sys
 sys.path.append(r"D:\my_utils")
